@@ -1,5 +1,6 @@
 # CS-370-T1204-Current-Emerging-Trends-in-CS-22EW1
-Revolves around artificial intelligence, namely deep learning. Compares machine learning to deep learning, giving and overall focus on deep learning.
+Course revolves around artificial intelligence, namely deep learning. Compares machine learning to deep learning, giving and overall focus on deep learning.
+
 Briefly explain your work on this Project: What code were you given? What code did you create yourself?
 The Project consisted of neural networks, reinforcement learning, and Q-algorithms. The task for me was to create an intelligent pirate agent to meet the specifications that had been given. The code that needed to be created was the learning algorithm the pirate used to autonomously navigate its environment to solve the map and reach the treasure while avoiding obstacles based on learning habits.
 
